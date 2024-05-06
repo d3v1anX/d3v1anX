@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d3v1anX
-- 👀 I’m interested in sports, coding and something what I cannot tell here 
-- 🌱 I’m currently learning become expert on laravel 
+- 👀 I’m interested in sports, coding and flying some airplanes :)
+- 🌱 I’m currently growing on laravel and filament 
 - 💞️ I’m looking to collaborate on everything whats new
 - 📫 Reach me out on github :)
 
